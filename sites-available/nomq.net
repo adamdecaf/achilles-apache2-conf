@@ -1,6 +1,6 @@
 <VirtualHost *:80>
 	ServerAdmin adam@nomqueue.com
-
+	ServerName nomqueue.com
 	DocumentRoot /var/www/nomq.net
 	<Directory />
 		Options FollowSymLinks

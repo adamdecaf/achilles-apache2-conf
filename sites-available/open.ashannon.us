@@ -1,6 +1,6 @@
 <VirtualHost *:80>
 	ServerAdmin adam@ashannon.us 
-
+	ServerName open.ashannon.us
 	DocumentRoot /var/www/open.ashannon.us/
 	<Directory />
 		Options FollowSymLinks

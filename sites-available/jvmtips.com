@@ -1,6 +1,6 @@
 <VirtualHost *:80>
 	ServerAdmin adam@jvmtips.com
-
+	ServerName jvmtips.com
 	DocumentRoot /var/www/jvmtips.com
 	<Directory />
 		Options FollowSymLinks

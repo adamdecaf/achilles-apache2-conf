@@ -1,6 +1,6 @@
 <VirtualHost *:80>
 	ServerAdmin adam@imgmi.net
-
+	ServerName imgmi.net
 	DocumentRoot /var/www/imgmi.net
 	<Directory />
 		Options FollowSymLinks

@@ -1,6 +1,6 @@
 <VirtualHost *:80>
 	ServerAdmin adam@imgurdating.com
-
+	ServerName imgurdating.com
 	DocumentRoot /var/www/imgurdating.com
 	<Directory />
 		Options FollowSymLinks

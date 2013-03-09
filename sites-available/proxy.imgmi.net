@@ -1,6 +1,6 @@
 <VirtualHost *:80>
 	ServerAdmin adam@proxy.imgmi.net
-
+	ServerName proxy.ashannon.us`
 	DocumentRoot /var/www/proxy.imgmi.net/
 	<Directory />
 		Options FollowSymLinks
